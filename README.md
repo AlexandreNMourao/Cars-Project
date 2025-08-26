@@ -38,6 +38,15 @@ Para evitar problemas, você pode sempre preencher a descrição manualmente ou 
    Credenciais da AWS
 5. Execute a aplicação:
    python manage.py runserver
+6. Acessar no navegador o link http://127.0.0.1:8000/cars
 
 ## Screenshots
-- Tela inicial:
+- ![Tela Inicial 1 /cars:](screenshots/screenshot1.png)
+- ![Tela Inicial 2 /cars:](screenshots/screenshot2.png)
+- ![Tela Descrição carro:](screenshots/screenshot3.png)
+- ![Tela Pesquisa Por Modelo:](screenshots/screenshot4.png)
+- ![Tela Cadastro:](screenshots/screenshot5.png)
+- ![Tela Login:](screenshots/screenshot6.png)
+- ![Tela ADM:](screenshots/screenshot7.png)
+- ![Tela Carros ADM:](screenshots/screenshot8.png)
+- ![Tela Marcas ADM:](screenshots/screenshot9.png)
