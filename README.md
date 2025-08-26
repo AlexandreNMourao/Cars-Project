@@ -6,7 +6,7 @@ Permite cadastro de marcas e veículos, autenticação de usuários, integraçã
 ## Funcionalidades
 - Cadastro de marcas, carros e vitrine de veículos  
 - Registro, login e controle de sessão de usuários  
-- Integração com a API da OpenAI para cálculos automáticos de inventário  
+- Integração com a API da OpenAI para gerar descrição do veículo quando não houver
 - Banco de dados PostgreSQL  
 - Deploy em servidor AWS
 
