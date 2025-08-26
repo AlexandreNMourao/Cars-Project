@@ -12,9 +12,9 @@ Permite cadastro de marcas e veículos, autenticação de usuários, integraçã
 
 ## Tecnologias
 - Backend: Python Django 
-- Frontend: React / HTML, CSS, JS  
+- Frontend: HTML, CSS, JS  
 - Banco de Dados: PostgreSQL  
-- Cloud: AWS (EC2, RDS, etc.)  
+- Cloud: AWS  
 - API: OpenAI
 
 ## Pré-requisitos e Instalação
