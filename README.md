@@ -27,7 +27,7 @@ Para evitar problemas, você pode sempre preencher a descrição manualmente ou 
 
 ## Como rodar o projeto
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/Cars-Project.git
+   git clone https://github.com/AlexandreNMourao/Cars-Project.git
 2. Acesse a pasta de projetos:
    cd Cars-Project
 3. Instale as dependências:
