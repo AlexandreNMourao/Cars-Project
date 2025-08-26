@@ -1,8 +1,7 @@
 import openai
 
-# Adicionar open.api_key e retirar aspas triplas para integração IA
-# Add open.api_key and remove triple quotes for AI integration
-"""
+# Adicionar open.api_key para o correto funcionando da geração de descrição com IA
+
 def get_car_ai_bio(model, brand, year):
     prompt = ''''
     Me mostre uma descrição de venda para o carro {} {} {} em apenas 250 caracteres. Fale coisas específicas desse modelo.
@@ -15,4 +14,4 @@ def get_car_ai_bio(model, brand, year):
         max_tokens=1000,
     )
     return response['choices'][0]['text']
-"""
+
