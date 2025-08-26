@@ -11,7 +11,7 @@ Permite cadastro de marcas e veículos, autenticação de usuários, integraçã
 - Deploy em servidor AWS
 
 ## Tecnologias
-- Backend: Python (Django / Flask / FastAPI) ou Node.js  
+- Backend: Python Django 
 - Frontend: React / HTML, CSS, JS  
 - Banco de Dados: PostgreSQL  
 - Cloud: AWS (EC2, RDS, etc.)  
