@@ -6,15 +6,15 @@ Permite cadastro de marcas e veículos, autenticação de usuários, integraçã
 ## Funcionalidades
 - Cadastro de marcas, carros e vitrine de veículos  
 - Registro, login e controle de sessão de usuários  
-- Integração com a API da OpenAI para cálculos automáticos de inventário  
+- Integração com a API da OpenAI para gerar descrição do veículo quando não houver
 - Banco de dados PostgreSQL  
 - Deploy em servidor AWS
 
 ## Tecnologias
-- Backend: Python (Django / Flask / FastAPI) ou Node.js (se for o caso)  
-- Frontend: React / HTML, CSS, JS  
+- Backend: Python Django 
+- Frontend: HTML, CSS, JS  
 - Banco de Dados: PostgreSQL  
-- Cloud: AWS (EC2, RDS, etc.)  
+- Cloud: AWS  
 - API: OpenAI
 
 ## Pré-requisitos e Instalação
@@ -27,7 +27,7 @@ Para evitar problemas, você pode sempre preencher a descrição manualmente ou 
 
 ## Como rodar o projeto
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/Cars-Project.git
+   git clone https://github.com/AlexandreNMourao/Cars-Project.git
 2. Acesse a pasta de projetos:
    cd Cars-Project
 3. Instale as dependências:
